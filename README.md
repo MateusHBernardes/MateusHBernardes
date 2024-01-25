@@ -7,6 +7,5 @@
 
 <h3 align="center">Futuro programador backend </h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MateusHBernardes\&show_icons=true\&theme=gruvbox)](https://github.com/MateusHBernardes/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 </div>
