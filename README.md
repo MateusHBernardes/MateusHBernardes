@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="" align="center" alt="" />
+ <img width="300px" src="GEXH3WKK0-backdrop_wide.avif" align="center" alt="" />
 
 <div align="center">
 <h2 align="center">Mateus Bernardes</h2>
