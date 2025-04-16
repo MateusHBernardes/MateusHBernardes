@@ -2,9 +2,9 @@
  <img width="300px" src="" align="center" alt="GitHub Readme Stats" />
 
 <div align="center">
-<h2 align="center">Título.txt</h2>
+<h2 align="center">Mateus Bernardes</h2>
 
-<h3 align="center">.txt</h3>
+<h3 align="center">Estudante da área</h3>
 
 
 </div>
