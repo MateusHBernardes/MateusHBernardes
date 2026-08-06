@@ -33,7 +33,7 @@
 ### 🏆 Troféus GitHub
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusHBernardes&theme=algolia&no-frame=true&no-bg=false&margin-w=10&row=1&column=6" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=MateusHBernardes&theme=algolia&no-frame=true&no-bg=false&margin-w=10&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
