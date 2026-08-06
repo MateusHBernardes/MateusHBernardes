@@ -34,19 +34,11 @@
 
 ---
 
-### 📊 Estatísticas e esquema de medalhas
+### 📊 Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusHBernardes&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1A1A2E&title_color=C9A15C&icon_color=2B4C6F&text_color=E8E8E8&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHBernardes&layout=compact&theme=vue-dark&hide_border=true&bg_color=1A1A2E&title_color=C9A15C&text_color=E8E8E8" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusHBernardes&theme=vue-dark&hide_border=true&background=1A1A2E&ring=C9A15C&fire=C9A15C&currStreakLabel=C9A15C" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusHBernardes&theme=react-dark&bg_color=1A1A2E&color=C9A15C&line=2B4C6F&point=E8E8E8&hide_border=true" alt="Activity Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusHBernardes&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHBernardes&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
