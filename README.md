@@ -29,7 +29,7 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,java,js,nodejs,python,docker,mysql,php,npm,vscode,obsidian,figma&theme=dark" alt="Skills" />
 </p>
 
 ---
