@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusHBernardes&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHBernardes&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
