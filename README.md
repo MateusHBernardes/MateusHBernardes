@@ -22,7 +22,6 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na UniSENAI
 - 📍 Baseado em **Joinville, SC**, com preferência por oportunidades presenciais/locais
 - 🌱 Aprendendo na prática através de projetos acadêmicos e pessoais
-- 💬 Fale comigo sobre lógica de programação, bancos de dados e boas práticas de desenvolvimento
 
 ---
 
